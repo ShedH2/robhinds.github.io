@@ -64,11 +64,6 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - ShedH2/shedh2.github.io
-
-
-
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
-   
