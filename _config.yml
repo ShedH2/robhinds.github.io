@@ -33,17 +33,17 @@ roles:
    start: 2011
    end: 2016
    employer: Oracle
-   description: 
+   #description: 
  - title: Director of Academic Computing
    start: 2009
    end: 2011
    employer: Edward Waters College
-   description: 
+   #description: 
  - title: Application Engineer
    start: 2007
    end: 2008
    employer: Citigroup
-   description: 
+   #description: 
 
 #Education is required
 education:
@@ -63,12 +63,12 @@ education:
 
 
 #List of interesting Github repo/projects to include - optional
-github:
+#github:
 # - robhinds/twitter-sentiment-analysis
 
 
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+#additionalinfo: 
    
